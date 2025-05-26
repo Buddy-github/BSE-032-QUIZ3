@@ -1,3 +1,1 @@
-
-message = "QUIZ 3 OF DEVOPS"
-print(message)
+print(" QUIZ 3 OF DEVOPS")
