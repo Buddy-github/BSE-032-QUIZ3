@@ -2,8 +2,6 @@ public class test{
 
 
 public static void main(String args[]) {
-
-
 System.out.print("DEVOPS QUIZ 3");
 
 
